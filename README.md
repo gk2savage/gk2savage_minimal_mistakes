@@ -8,7 +8,7 @@
 Type in terminal gem install jekyll for installation.
 This should work fine when you have all the dependencies installed. If you run into any issue, go to page jekyll install.
 
-##install minimal-mistakes
+## install minimal-mistakes
 
 It takes a little more work to install the theme.
 You need to first generate a jekyll folder: jekyll new anyname. Then a folder named anyname is going to be created in your current directory, and it contains all the basic files to make a website.
